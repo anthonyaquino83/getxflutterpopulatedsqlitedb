@@ -1,16 +1,13 @@
-# getxflutterpopulatedsqlitedb
+# GetX SQLite tutorial usando um banco de dados SQLite já existente com Flutter e GetX
 
-A new Flutter project.
+GetX SQLite tutorial using prepopulated database, Flutter and GetX.
 
-## Getting Started
+<!-- Código-fonte do vídeo "Como usar banco de dados SQLite já existente com Flutter e GetX - Tutorial 7" do canal AnthonyDev no YouTube. -->
 
-This project is a starting point for a Flutter application.
+<!-- Link do vídeo: (quando o youtube processar o vídeo eu coloco). -->
 
-A few resources to get you started if this is your first Flutter project:
+Por favor, se esse código te ajudou, deixe uma estrela no repositório.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Please, if this code helped you, give a star to this repository. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+;)
